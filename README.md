@@ -1,4 +1,4 @@
-# Netflix-Visualization-using-Tableau
+# Netflix Data-Visualization-using-Tableau
 
 Here I have attempted to perform exploratory data analysis using Tableau.
 
